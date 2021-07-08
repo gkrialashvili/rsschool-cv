@@ -67,3 +67,7 @@ __Certificate in MVC.Net__
 
 *organization: Geolab*
 __Front-End Development__
+
+####English
+
+*Advanced level of English*
