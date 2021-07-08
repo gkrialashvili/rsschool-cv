@@ -62,3 +62,8 @@ __195 PUBLIC SCHOOL__ (TBILISI, GEORGIA), HIGH SCHOOL DIPLOMA
 
 __Microsoft Technology Associate: Software Development Fundamentals (MTA)__ (https://www.credly.com/badges/091901a9-504e-4f9c-af9c-4c5564747cf8/linked_in)
 
+*organization: Geolab*
+__Certificate in MVC.Net__
+
+*organization: Geolab*
+__Front-End Development__
